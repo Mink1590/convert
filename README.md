@@ -1,1 +1,1 @@
-# convert
+# tesseract image.pdf output.txt
